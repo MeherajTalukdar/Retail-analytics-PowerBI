@@ -4,7 +4,6 @@ Analysis of the `Orders` and `Campaigns` tables behind [`Power Bi Analysis and d
 
 ---
 
-## TL;DR
 
 | Metric | Value |
 |---|---|
